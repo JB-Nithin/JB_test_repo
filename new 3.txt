@@ -2,3 +2,5 @@
 #add to stage
 #commit the changes
 #merge
+#will be merging
+#checkout to master after checkout]

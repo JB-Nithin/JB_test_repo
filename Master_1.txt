@@ -5,4 +5,6 @@
 #again creating a new branch
 #branch name is new_2
 #will have to merge to master
+#merging to master in the next step
+#checkout master
 
